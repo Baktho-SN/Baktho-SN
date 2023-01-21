@@ -20,7 +20,6 @@
 ### 👨‍💻 Programming languages
 
 <p>
-    <img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-00599C.svg?style=for-the-badge&logo=c-in-hexagon&logoColor=white">
     <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-E0234E.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img alt="Python" src="https://img.shields.io/badge/Python-1867C0.svg?style=for-the-badge&logo=python&logoColor=white">
     <img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-E34F26.svg?style=for-the-badge&logo=java&logoColor=white">
