@@ -24,7 +24,7 @@
     <img alt="Python" src="https://img.shields.io/badge/Python-1867C0.svg?style=for-the-badge&logo=python&logoColor=white">
     <img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-E34F26.svg?style=for-the-badge&logo=java&logoColor=white">
     <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
-    <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white">
+    <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white">
 </p>
 
 ### 👉 Frontend Development
