@@ -43,6 +43,8 @@
     <img alt="ScikitLearn" src="https://img.shields.io/badge/ScikitLearn-0078D7.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
     <img alt="Fastapi" src="https://img.shields.io/badge/FastAPI-109989.svg?style=for-the-badge&logo=FASTAPI&logoColor=white">
     <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white">
+    <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
+
 </p>
 
 ### 🗄️ Databases and Cloud hosting
@@ -74,6 +76,7 @@
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
     <img alt="Windows terminal" src="https://img.shields.io/badge/Windows%20Terminal-302E31.svg?style=for-the-badge&logo=windows%20terminal&logoColor=white">
 </p>
+
 <br/>
 
 ## 🔥 Streak Stats
