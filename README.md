@@ -10,9 +10,9 @@
 
 <h2 align="left">📱 Connect with Me :</h2>
 <p align="left">
-<a href="https://linkedin.com/in/baktho-s-n-435742234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baktho-s-n-435742234" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aa6417796" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aa6417796" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/baktho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="baktho" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/baktho-s-n-435742234" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="baktho-s-n-435742234" /></a>
+<a href="https://www.hackerrank.com/aa6417796" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="aa6417796"  /></a>
+<a href="https://www.leetcode.com/baktho" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="baktho" /></a>
 </p> <br>
 
 <h2 align="left">🚀 Languages and Tools :</h2>
@@ -23,8 +23,7 @@
     <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-E0234E.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img alt="Python" src="https://img.shields.io/badge/Python-1867C0.svg?style=for-the-badge&logo=python&logoColor=white">
     <img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-E34F26.svg?style=for-the-badge&logo=java&logoColor=white">
-    <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
-    <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white">
+    <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
 </p>
 
 ### 👉 Frontend Development
