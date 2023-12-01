@@ -11,7 +11,7 @@
 <h2 align="left">📱 Connect with Me :</h2>
 <p align="left">
 <a href="https://linkedin.com/in/baktho-s-n-435742234" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="baktho-s-n-435742234" /></a>
-<a href="https://www.hackerrank.com/aa6417796" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="aa6417796"  /></a>
+<a href="https://www.hackerrank.com/profile/Baktho" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="aa6417796"  /></a>
 <a href="https://www.leetcode.com/baktho" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="baktho" /></a>
 </p> <br>
 
